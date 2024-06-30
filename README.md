@@ -1,4 +1,4 @@
-# Personal Chatbot
+# Personal Chatbot | [Blog](https://medium.com/@rz.samar.kale/building-a-personalized-q-a-chatbot-with-ollama-and-langchain-a-practical-guide-b5d8cb7d3c21)
 
 This is a simple implementation of Ollama with Langchain to develop a personalized chatbot with Q&A and chat history.
 
