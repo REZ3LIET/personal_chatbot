@@ -1,8 +1,3 @@
-"""
-Interacts with user to understand audience and content type
-and converts the information to json.
-"""
-
 import json
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
